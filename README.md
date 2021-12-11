@@ -102,3 +102,4 @@ For the `subql-starter` project, you can try to query with the following code to
 ````
 "# balances-transfers" 
 "# balances-transfer" 
+"# balances-transfer" 
